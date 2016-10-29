@@ -1,0 +1,27 @@
+This is the result for the examples provided.
+
+* 1 adult, 31 days to the departure date, flying AMS -> FRA
+
+  flights:
+
+	* TK2372, 157,60 €
+	* TK2659, 198,40 €
+	* LH5909, 90,40 €
+
+* 2 adults, 1 child, 1 infant, 15 days to the departure date, flying LHR -> IST
+
+  flights:
+
+	* TK8891, 806,00 €
+	* LH1085, 481,19 €
+
+* 1 adult, 2 children, 2 days to the departure date, flying BCN -> MAD
+
+  flights:
+
+	* IB2171, 909,09 €
+	* LH5496, 1.028,43 €
+
+* CDG -> FRA
+
+  no flights available
